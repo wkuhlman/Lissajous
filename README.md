@@ -16,4 +16,4 @@ The app has also been uploaded to Shiny apps:
 
 ### GitHub:
 In case you somehow arrived here without going through GitHub, here's the GitHub repository:
-
+[https://github.com/wkuhlman/Lissajous/](https://github.com/wkuhlman/Lissajous/)
