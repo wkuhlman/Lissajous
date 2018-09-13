@@ -1,0 +1,12 @@
+name: Lissajous
+title: Lissajous
+username:
+account: wkuhlman
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 440097
+bundleId: 1583071
+url: https://wkuhlman.shinyapps.io/Lissajous/
+when: 1536803554.57236
+asMultiple: FALSE
+asStatic: FALSE
