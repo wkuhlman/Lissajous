@@ -14,6 +14,9 @@ From within R, run: `runApp("Lissajous")`
 The app has also been uploaded to Shiny apps: 
 [https://wkuhlman.shinyapps.io/Lissajous/](https://wkuhlman.shinyapps.io/Lissajous/)
 
+### Slide Deck:
+Here's the documentation/pitch slide deck: [https://wkuhlman.github.io/Lissajous/lissa_fig.html](https://wkuhlman.github.io/Lissajous/lissa_fig.html)
+
 ### GitHub:
 In case you somehow arrived here without going through GitHub, here's the GitHub repository:
-
+[https://github.com/wkuhlman/lissajous/tree/gh-pages](https://github.com/wkuhlman/lissajous/tree/gh-pages)
